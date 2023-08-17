@@ -1,0 +1,67 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #F0F2F5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+}
+
+.logo-otica {
+    margin-left: 350px;
+    height: 50vh;
+    width: 50vw;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 122px;
+    letter-spacing: 0em;
+    text-align: center;
+    height: 120px;
+    color: #515151;
+
+}
+
+p{
+    margin-left: 14%;
+    margin-bottom: 2%;
+    color:#696969;
+}
+
+header {
+    display: block;
+    margin-left: 450px;
+}
+
+.link-header {
+    margin-right: 60px;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 29px;
+    cursor: pointer;
+    color: #989D9C;
+    text-decoration: none;
+}
+
+.link-header:hover {
+    opacity: 0.5;
+}
+
+.link-header:active {
+    opacity: 0.2;
+}
+
+iframe {
+    height: 30vh;
+    width: 30vw;
+    margin-left: 35%;
+    margin-top: 5%;
+    border-radius: 30px;
+}
+
