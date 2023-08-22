@@ -28,10 +28,10 @@ h1 {
 
 }
 
-p{
+p {
     margin-left: 14%;
     margin-bottom: 2%;
-    color:#696969;
+    color: #696969;
 }
 
 header {
@@ -65,5 +65,48 @@ iframe {
     border-radius: 30px;
 }
 
+@media screen and (max-width: 900px) {
+    .logo-otica {
+        width: 60vw;
+        height: 40vh;
+        margin-left: 80px;
+    }
 
+    h1 {
+        font-size: 25px;
+        font-weight: 900;
+        line-height: 30px;
+        letter-spacing: 0em;
+        text-align: center;
+    }
 
+    p {
+        text-align: center;
+        margin-left: 10px;
+    }
+
+    main {
+        display: block;
+    }
+
+    iframe {
+        height: 20vh;
+        width: 60vw;
+        margin-left: 20%;
+
+    }
+
+    header {
+        display: block;
+        height: 200px;
+        width: 100px;
+        margin-left: 10%;
+    }
+
+    .link-header{
+        line-height: 5vh;
+        font-size: 15px;
+        margin-right: 10px;
+        
+    }
+}
