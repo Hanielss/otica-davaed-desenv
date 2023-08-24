@@ -1,6 +1,6 @@
 <h1 align="center">Ótica Davaed</h1>
 <br>
-<h2 align="center"> Desenvolvi esse projeto para estudo e logo estará disonível para utlização</h2>
+<h2 align="center"> Desenvolvi esse projeto para estudo e logo estará disonível para utilização</h2>
 <br>
 <p>  :o: Projeto desenvolvido com as tecnologias:</p>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
